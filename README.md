@@ -1,8 +1,8 @@
 ﻿---
-title: Liver Disease Predictor
+title: Liver Cirrhosis Prediction
 emoji: 🏥
-colorFrom: blue
-colorTo: green
+colorFrom: red
+colorTo: blue
 sdk: gradio
 sdk_version: 4.19.2
 app_file: app.py
