@@ -8,7 +8,6 @@ sdk_version: 4.19.2
 app_file: app.py
 pinned: false
 ---
-
 # Liver_cirrhosis_prediction
 Since you’ve already got the code and the UI on GitHub, a punchy "About" section is the final polish. It tells recruiters and professors exactly what you built without them having to dig through your .py files.
 
