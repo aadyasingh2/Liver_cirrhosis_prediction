@@ -1,4 +1,15 @@
-﻿# Liver_cirrhosis_prediction
+﻿---
+title: Liver Disease Predictor
+emoji: 🏥
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 4.19.2
+app_file: app.py
+pinned: false
+---
+
+# Liver_cirrhosis_prediction
 Since you’ve already got the code and the UI on GitHub, a punchy "About" section is the final polish. It tells recruiters and professors exactly what you built without them having to dig through your .py files.
 
 Here is a draft you can copy-paste into your GitHub Repository Description or your README.md:
